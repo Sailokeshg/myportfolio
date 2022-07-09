@@ -1,0 +1,251 @@
+a {
+  color: #11999e;
+  text-decoration: none;
+}
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #0a0a0a;
+}
+.mode {
+  height: 45px;
+  width: 45px;
+  border-radius: 59px;
+  position: absolute;
+  opacity: 0.7;
+  right: 20px;
+  top: 20px;
+}
+.coding-icon {
+  width: 160px;
+  float: left;
+  margin-right: 30px;
+}
+.coursera-icon {
+  width: 160px;
+  float: left;
+  margin-right: 30px;
+}
+.copyright {
+  color: #1e1d1d;
+  margin: 50px auto 5px auto;
+  font-size: 0.7rem;
+  display: inline;
+  font-weight: lighter;
+  font-family: monospace;
+}
+.contact-text {
+  margin: 0 auto 0 auto;
+  line-height: 2;
+  font-size: 1.2rem;
+  width: 80%;
+}
+.contact-me {
+  background: #191a19;
+  width: 80%;
+  margin: 0 auto 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+.certificate {
+  background: #191a19;
+  width: 80%;
+  margin: 0 auto 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+.certificate-row1 {
+  line-height: 2;
+  margin: 50px auto 50px auto;
+  text-align: right;
+  width: 75%;
+}
+.certificate-row2 {
+  line-height: 2;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  width: 75%;
+}
+.developer {
+  width: 28rem;
+  font-size: 2rem;
+  font-weight: lighter;
+  font-family: monospace;
+  color: #085b3d;
+  margin: 0 auto 0 auto;
+  padding: 40px;
+}
+.dark-fade {
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 120px 0 90px 0;
+  margin-bottom: 15px;
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}
+.first {
+  background-image: url(https://wallpaperaccess.com/full/4230797.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 15px;
+  text-align: center;
+}
+.first-img {
+  float: right;
+  margin-right: 50px;
+  width: 430px;
+}
+.footer-link {
+  color: #004042;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: 700;
+  padding: 30px;
+  font-size: 1.2rem;
+}
+.footer-link:hover {
+  color: #e0f7fa;
+}
+.hackerrank-icon {
+  width: 160px;
+  float: right;
+  margin-left: 30px;
+}
+h1 {
+  font-family: "Comic Neue", cursive;
+  font-size: 4.3rem;
+  width: 100%;
+  display: inline;
+  margin: 0 auto 0 auto;
+  color: #12873b;
+  text-shadow: 5px 10px 8px #000;
+  font-weight: 300;
+}
+h2 {
+  color: #0d8437;
+  text-shadow: -1px 1px 5px #000;
+  font-size: 2.2rem;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+h3 {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 700;
+  color: #519872;
+  font-size: 1.5rem;
+}
+hr {
+  width: 5%;
+  border: none;
+  border-top: 7px dotted #757575;
+  margin: 60px auto 60px auto;
+}
+.hobby-icon {
+  padding: 20px 0 20px 0;
+  width: 86px;
+  margin: 5%;
+}
+.iam {
+  font-size: 5rem;
+  display: inline;
+  color: #12873b;
+  text-shadow: 5px 10px 8px #000;
+  font-weight: 400;
+  font-family: "Comic Neue", cursive;
+}
+.light-text {
+  font-weight: lighter;
+  color: #bdbdbd;
+}
+.profile {
+  width: 80%;
+  margin: 0 auto 0 auto;
+}
+.profile-pic {
+  margin-top: 10px;
+  width: 200px;
+  border-radius: 100%;
+}
+p {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  color: #afafaf;
+  font-size: 1.2rem;
+}
+.resume-btn {
+  border-radius: 5px;
+  padding: 10px;
+  background-image: linear-gradient(#308054, #084f51);
+  color: #000;
+  text-shadow: -1px -1px 10px #12873b;
+  font-family: sans-serif;
+  letter-spacing: 1.5px;
+}
+.resume-btn:hover {
+  background-image: linear-gradient(#084f51, #0b7f68);
+}
+.social-icon {
+  width: 50px;
+  padding: 5px;
+  margin-bottom: 80px;
+}
+.social-icon:hover {
+  width: 55px;
+}
+.skills {
+  background: #191a19;
+  width: 80%;
+  margin: 0 auto 0 auto;
+  padding: 15px;
+  border-radius: 10px;
+}
+.skill-row {
+  line-height: 2;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  width: 80%;
+}
+.third {
+  background-image: linear-gradient(#0b7f68, #084f51);
+  padding: 10px;
+  line-height: 2;
+}
+.web-icon {
+  width: 160px;
+  float: right;
+  margin-left: 30px;
+}
+@media all and (max-width: 550px) {
+  .hackerrank-icon {
+    float: none;
+    margin-left: 0;
+  }
+  .coursera-icon {
+    float: none;
+    margin-right: 0;
+  }
+  .certificate-row1 {
+    text-align: center;
+  }
+  .certificate-row2 {
+    text-align: center;
+  }
+  .coding-icon {
+    float: none;
+    margin-right: 0;
+  }
+  .web-icon {
+    float: none;
+    margin-left: 0;
+  }
+  .skill-row {
+    text-align: center;
+  }
+  .hobby-icon {
+    padding: 20px 0 20px 0;
+    width: 86px;
+    margin: 1.2%;
+  }
+  .footer-link {
+    padding: 18px;
+  }
+}
