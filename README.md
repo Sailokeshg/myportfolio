@@ -6,7 +6,7 @@ Full stack developer
 ------------------------------------------
 
 * 🌍  I'm based in Hyderabad
-* 🖥️  See my portfolio at [MyProtfolio](http://sailokeshg.github.io/myportfolio)
+* 🖥️  See my portfolio visually at [MyProtfolio](http://sailokeshg.github.io/myportfolio)
 * ✉️  You can contact me at [sailokeshreddyg@gmail.com](mailto:sailokeshreddyg@gmail.com)
 * 🧠  I'm learning FastAPI
 
